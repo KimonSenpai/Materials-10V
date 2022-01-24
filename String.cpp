@@ -18,7 +18,7 @@ int main() {
 
 
     char str[20] = "qwerty";
-
+    cin >> str;
     cout << str << '\n';
     cout << "Hello world!\n";
     cout << "Hello\0world!\n";
